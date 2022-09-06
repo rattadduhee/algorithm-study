@@ -1,6 +1,6 @@
 # Algorithm Study📝
 
-- 매주 일요일 23시 59분까지 <b>두 문제</b> 이상을 풀이하여 업로드합니다.</br>
+- 매주 일요일 23시 59분까지 <b>평일 최소 하루에 두 문제</b> 이상을 풀이하여 업로드합니다.</br>
 - 월요일에 main에 합치기!
   <br><br/>
 
@@ -17,7 +17,8 @@
 
 | 업로드 횟수 |      표기      |
 | :---------: | :------------: |
-| 2문제 이상  |       ✅       |
+| 10문제 이상 |       ✅       |
+|   1~9문제   |    1️⃣ ~ 9️⃣     |
 |    0문제    | ❌ <br/>(사유) |
 
 <br>
@@ -37,4 +38,4 @@
 
 ## 📍 Reference Site
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://teal-floss-6e7.notion.site/b768fa040a774cc6bd4794499c7b0a62?v=7db36103ee40454dbbd17454bc496afc"><img src="https://img.shields.io./badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a target="_blank" href="https://www.notion.so/d5b7a30c287e4107be484a04f72c0bc4?v=8cebd4372b8f4a7aa66133c743b91003"><img src="https://img.shields.io./badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
