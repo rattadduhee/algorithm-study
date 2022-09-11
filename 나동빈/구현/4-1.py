@@ -1,3 +1,5 @@
+# 구현 - 상하좌우
+
 import sys
 
 num = int(input())
