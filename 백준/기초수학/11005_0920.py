@@ -2,5 +2,14 @@
 
 import sys
 
-n, b = map(input().split(' '))
+n, b = map(int,input().split(' '))
+res = ''
+s = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+while n>0:
+  n, mod = divmod(n,b)
+  if mod > 9:
+    res += s[mod-10]
+  else:
+    res += str(mod)
 
+print(res[::-1])
