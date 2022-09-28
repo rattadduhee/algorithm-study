@@ -12,7 +12,7 @@ for i in range(m, n+1):
       tp+=1
       break
 
-  if tp == 0:
+  if i!= 1 and tp == 0:
     res.append(i)
 
 print('\n'.join(map(str,res)))
