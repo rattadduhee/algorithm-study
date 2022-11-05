@@ -8,9 +8,9 @@ m = int(input())
 num = list(input().split())
 result = []
 s = ''
-for i in num:
+for i in num: 
   n = int(i,a)
-  print(n)
+  
   while n:
     n,mod = divmod(n,b)
     s += str(mod)
