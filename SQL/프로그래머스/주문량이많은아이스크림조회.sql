@@ -1,0 +1,11 @@
+-- 프로그래머스 join 예제
+-- orderby에서 sum 활용하기
+
+-- 코드를 입력하세요
+SELECT A.FLAVOR
+FROM FIRST_HALF AS A
+JOIN JULY AS B
+ON A.FLAVOR = B.FLAVOR
+GROUP BY A.FLAVOR
+ORDER BY SUM(A.TOTAL_ORDER) DESC
+LIMIT 3
